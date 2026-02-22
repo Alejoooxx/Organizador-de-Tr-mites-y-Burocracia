@@ -1,5 +1,4 @@
-# OptiTrámite — Gestor de Trámites y Burocracia
-
+# Proyecto: Organizador de Trámites y Burocracia
 
 
 ### 1) Dolor principal detectado
@@ -14,6 +13,7 @@
 
 ![Gráfica de resultados](img/Grafica_1.png)
 
+![Gráfica de resultados2](img/Grafica_2.png)
 
 - **Enlace al formulario:** *(https://docs.google.com/forms/d/e/1FAIpQLSdsqLq8m7KpJSQFNcgZWjVnFh3mb-J15w0DxXj-z19sHMKkkA/viewform)*
 
